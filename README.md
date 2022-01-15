@@ -4,4 +4,3 @@ This was task of 'Payment Gateway Integration' for Web Development & Designing i
 
 Website Link- https://pawsitively.000webhostapp.com/
 
-Technologies
