@@ -12,7 +12,6 @@ Website Link- https://pawsitively.000webhostapp.com/
 
 - HTML5
 - CSS3
-- Bootsrap5
 - JavaScript
 - Payment Gateway used-Razorpay
 
